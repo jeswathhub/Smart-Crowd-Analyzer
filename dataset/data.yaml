@@ -1,7 +1,0 @@
-path: dataset
-
-train: train_data/images
-val: test_data/images
-
-nc: 1
-names: ["person"]
