@@ -1,4 +1,4 @@
-# Smart Crowd Analyzer for Stampede Prevention
+# Smart Crowd Analyzer for Stampede Prevention using YOLO and Computer Vision
 
 ## Description
 
