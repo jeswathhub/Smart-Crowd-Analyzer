@@ -32,7 +32,7 @@ This project is aimed at enhancing public safety in places such as **temples, ra
 * **Programming Language:** Python
 * **Computer Vision:** OpenCV
 * **Deep Learning Model:** YOLOv8
-* **Data Visualization:** Matplotlib
+* **Data Visualization:** Matplotlib / Seaborn
 * **Audio Alerts:** Pygame / WAV alert system
 * **Development Tools:** VS Code, Jupyter Notebook
 
